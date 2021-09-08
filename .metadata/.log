@@ -625,3 +625,15 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-07 21:32:12.555
 !MESSAGE executing callback sts4.classpath.ImGsNzdb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-07 22:27:27.292
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ImGsNzdb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-07 22:27:27.292
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ImGsNzdb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-07 22:27:27.293
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-07 22:27:27.294
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ImGsNzdb => OK
